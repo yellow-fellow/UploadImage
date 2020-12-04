@@ -32,9 +32,9 @@ const UploadForm = () => {
         const visualRecognition = new VisualRecognitionV3({
         version: '2018-03-19',
         authenticator: new IamAuthenticator({
-            apikey: 'Y9p7VozCJgWSIa4tpKViR8BSqd2kEEV_E8ixY2TDsg5m',
+            apikey: '-', /* Hidden for security reasons */
         }),
-        url: 'https://api.kr-seo.visual-recognition.watson.cloud.ibm.com/instances/a4d58de3-7ea4-405c-a86b-467be29e7577',
+        url: '-',  /* Hidden for security reasons */
         });
 
         const classifyParams = {
