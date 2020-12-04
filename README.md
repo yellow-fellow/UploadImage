@@ -16,8 +16,8 @@
 
 ### How the application looks like using mobile
 
-![Mobile View](https://github.com/yellow-fellow/UploadImage/"Mobile_View")
+![Mobile View](https://github.com/yellow-fellow/UploadImage/blob/master/Mobile_View.png)
 
 ### How the application looks like using web
 
-![Web View](https://github.com/yellow-fellow/UploadImage/"Web_View")
+![Web View](https://github.com/yellow-fellow/UploadImage/blob/master/Web_View.png)
